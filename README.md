@@ -34,3 +34,5 @@ d79f4715a170: Layer already exists
 
 $ docker logout lightbend-docker-registry.bintray.io
 ```
+
+&copy; Lightbend Inc., 2017
