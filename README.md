@@ -1,5 +1,7 @@
 # ConductR OCI in Docker
 
+*Note that this project is EOL as of 2018-01-31.*
+
 This project contains a `Dockerfile` and script for building and pushing the OCI in Docker image for ConductR.
 ConductR uses this image to launch OCI Images and Bundles inside of Docker containers, thus providing support on
 environments that aren't running a linux kernel.
